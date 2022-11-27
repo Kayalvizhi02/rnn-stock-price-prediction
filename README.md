@@ -1,4 +1,7 @@
-# Stock Price Prediction
+## EXP.NO : 5
+## DATE :
+
+# <p align="center"> Stock Price Prediction </p>
 
 ## AIM:
 
@@ -33,11 +36,10 @@ Follow the same steps to create the Test data. But make sure you combine the tra
 Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM:
+#### Developed By : KAYALVIZHI M
+#### Register Number : 212220230024
+
 ```python
-
-# Developed By : KAYALVIZHI M
-# Register Number : 212220230024
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -95,6 +97,7 @@ plt.legend()
 plt.show()
 
 ```
+
 ## OUTPUT:
 
 ### True Stock Price, Predicted Stock Price vs time
